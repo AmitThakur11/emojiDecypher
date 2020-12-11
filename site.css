@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Oregano&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Rubik+Mono+One&display=swap");
+
+.firstHalf {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: white;
+  border-radius: 1.5rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  margin-top: 3rem;
+  padding-bottom: 2em;
+  font-family: "Oregano", cursive;
+  background-image: linear-gradient(315deg, #3bb78f 0%, #0bab64 74%);
+  box-shadow: 15px 15px 19px 15px rgba(0, 0, 0, 0.16);
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+.emojisPart {
+  margin-left: 3rem;
+  margin-right: 3rem;
+  margin-top: 3rem;
+  padding-top: 0.4rem;
+  margin-bottom: 3rem;
+  text-align: center;
+  color: black;
+  box-shadow: 15px 15px 19px 15px rgba(0, 0, 0, 0.16);
+  font-family: "Oregano", cursive;
+  background-image: linear-gradient(315deg, #3bb78f 0%, #0bab64 74%);
+  border-radius: 1.5rem;
+}
+body {
+  background-color: #3bb78f;
+}
+
+.heading {
+  padding-top: 1rem;
+  padding-left: 1rem;
+  color: #171f32;
+  text-align: left;
+  font-size: 2rem;
+  color: var(--secondary);
+}
+.inputBox {
+  margin-bottom: 1rem;
+  height: auto;
+  width: auto;
+  margin-top: 1rem;
+  box-shadow: 10px 10px 13px 10px rgba(0, 0, 0, 0.16);
+  border-radius: o.1;
+}
+.meaning {
+  color: black;
+  font-size: 1.5rem;
+}
